@@ -1,0 +1,484 @@
+
+ [
+   {
+     "img": "../assets/courses/1.jpg",
+     "time": "1 hours",
+     "title": "Calculus 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "100EGP",
+     "type": "Calculus"
+   },
+   {
+     "img": "../assets/courses/2.jpg",
+     "time": "7 hours",
+     "title": "Algebra 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "200EGP",
+     "type": "Algebra"
+   },
+   {
+     "img": "../assets/courses/3.jpg",
+     "time": "11 hours",
+     "title": "Statistics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "300EGP",
+     "type": "Statistics"
+   },
+   {
+     "img": "../assets/courses/4.jpg",
+     "time": "4 hours",
+     "title": "Dynamics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "400EGP",
+     "type": "Dynamics"
+   },
+   {
+     "img": "../assets/courses/5.jpg",
+     "time": "1 hours",
+     "title": "Calculus 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "100EGP",
+     "type": "Calculus"
+   },
+   {
+     "img": "../assets/courses/6.jpg",
+     "time": "7 hours",
+     "title": "Algebra 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "200EGP",
+     "type": "Algebra"
+   },
+   {
+     "img": "../assets/courses/7.jpg",
+     "time": "11 hours",
+     "title": "Statistics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "300EGP",
+     "type": "Statistics"
+   },
+   {
+     "img": "../assets/courses/8.jpg",
+     "time": "4 hours",
+     "title": "Dynamics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "400EGP",
+     "type": "Dynamics"
+   },
+   {
+     "img": "../assets/courses/9.jpg",
+     "time": "1 hours",
+     "title": "Calculus 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "100EGP",
+     "type": "Calculus"
+   },
+   {
+     "img": "../assets/courses/10.jpg",
+     "time": "7 hours",
+     "title": "Algebra 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "200EGP",
+     "type": "Algebra"
+   },
+   {
+     "img": "../assets/courses/11.jpg",
+     "time": "11 hours",
+     "title": "Statistics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "300EGP",
+     "type": "Statistics"
+   },
+   {
+     "img": "../assets/courses/12.jpg",
+     "time": "4 hours",
+     "title": "Dynamics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "400EGP",
+     "type": "Dynamics"
+   },
+   {
+     "img": "../assets/courses/13.jpg",
+     "time": "1 hours",
+     "title": "Calculus 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "100EGP",
+     "type": "Calculus"
+   },
+   {
+     "img": "../assets/courses/14.jpg",
+     "time": "7 hours",
+     "title": "Algebra 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "200EGP",
+     "type": "Algebra"
+   },
+   {
+     "img": "../assets/courses/15.jpg",
+     "time": "11 hours",
+     "title": "Statistics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "300EGP",
+     "type": "Statistics"
+   },
+   {
+     "img": "../assets/courses/16.jpg",
+     "time": "4 hours",
+     "title": "Dynamics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "400EGP",
+     "type": "Dynamics"
+   },
+   {
+     "img": "../assets/courses/17.jpg",
+     "time": "1 hours",
+     "title": "Calculus 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "100EGP",
+     "type": "Calculus"
+   },
+   {
+     "img": "../assets/courses/18.jpg",
+     "time": "7 hours",
+     "title": "Algebra 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "200EGP",
+     "type": "Algebra"
+   },
+   {
+     "img": "../assets/courses/9.jpg",
+     "time": "11 hours",
+     "title": "Statistics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "300EGP",
+     "type": "Statistics"
+   },
+   {
+     "img": "../assets/courses/20.jpg",
+     "time": "4 hours",
+     "title": "Dynamics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "400EGP",
+     "type": "Dynamics"
+   },
+   {
+     "img": "../assets/courses/1.jpg",
+     "time": "1 hours",
+     "title": "Calculus 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "100EGP",
+     "type": "Calculus"
+   },
+   {
+     "img": "../assets/courses/2.jpg",
+     "time": "7 hours",
+     "title": "Algebra 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "200EGP",
+     "type": "Algebra"
+   },
+   {
+     "img": "../assets/courses/3.jpg",
+     "time": "11 hours",
+     "title": "Statistics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "300EGP",
+     "type": "Statistics"
+   },
+   {
+     "img": "../assets/courses/4.jpg",
+     "time": "4 hours",
+     "title": "Dynamics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "400EGP",
+     "type": "Dynamics"
+   },
+   {
+     "img": "../assets/courses/5.jpg",
+     "time": "1 hours",
+     "title": "Calculus 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "100EGP",
+     "type": "Calculus"
+   },
+   {
+     "img": "../assets/courses/6.jpg",
+     "time": "7 hours",
+     "title": "Algebra 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "200EGP",
+     "type": "Algebra"
+   },
+   {
+     "img": "../assets/courses/7.jpg",
+     "time": "11 hours",
+     "title": "Statistics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "300EGP",
+     "type": "Statistics"
+   },
+   {
+     "img": "../assets/courses/8.jpg",
+     "time": "4 hours",
+     "title": "Dynamics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "400EGP",
+     "type": "Dynamics"
+   },
+   {
+     "img": "../assets/courses/9.jpg",
+     "time": "1 hours",
+     "title": "Calculus 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "100EGP",
+     "type": "Calculus"
+   },
+   {
+     "img": "../assets/courses/10.jpg",
+     "time": "7 hours",
+     "title": "Algebra 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "200EGP",
+     "type": "Algebra"
+   },
+   {
+     "img": "../assets/courses/11.jpg",
+     "time": "11 hours",
+     "title": "Statistics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "300EGP",
+     "type": "Statistics"
+   },
+   {
+     "img": "../assets/courses/12.jpg",
+     "time": "4 hours",
+     "title": "Dynamics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "400EGP",
+     "type": "Dynamics"
+   },
+   {
+     "img": "../assets/courses/13.jpg",
+     "time": "1 hours",
+     "title": "Calculus 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "100EGP",
+     "type": "Calculus"
+   },
+   {
+     "img": "../assets/courses/14.jpg",
+     "time": "7 hours",
+     "title": "Algebra 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "200EGP",
+     "type": "Algebra"
+   },
+   {
+     "img": "../assets/courses/15.jpg",
+     "time": "11 hours",
+     "title": "Statistics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "300EGP",
+     "type": "Statistics"
+   },
+   {
+     "img": "../assets/courses/16.jpg",
+     "time": "4 hours",
+     "title": "Dynamics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "400EGP",
+     "type": "Dynamics"
+   },
+   {
+     "img": "../assets/courses/17.jpg",
+     "time": "1 hours",
+     "title": "Calculus 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "100EGP",
+     "type": "Calculus"
+   },
+   {
+     "img": "../assets/courses/18.jpg",
+     "time": "7 hours",
+     "title": "Algebra 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "200EGP",
+     "type": "Algebra"
+   },
+   {
+     "img": "../assets/courses/9.jpg",
+     "time": "11 hours",
+     "title": "Statistics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "300EGP",
+     "type": "Statistics"
+   },
+   {
+     "img": "../assets/courses/20.jpg",
+     "time": "4 hours",
+     "title": "Dynamics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "400EGP",
+     "type": "Dynamics"
+   },
+   {
+     "img": "../assets/courses/1.jpg",
+     "time": "1 hours",
+     "title": "Calculus 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "100EGP",
+     "type": "Calculus"
+   },
+   {
+     "img": "../assets/courses/2.jpg",
+     "time": "7 hours",
+     "title": "Algebra 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "200EGP",
+     "type": "Algebra"
+   },
+   {
+     "img": "../assets/courses/3.jpg",
+     "time": "11 hours",
+     "title": "Statistics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "300EGP",
+     "type": "Statistics"
+   },
+   {
+     "img": "../assets/courses/4.jpg",
+     "time": "4 hours",
+     "title": "Dynamics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "400EGP",
+     "type": "Dynamics"
+   },
+   {
+     "img": "../assets/courses/5.jpg",
+     "time": "1 hours",
+     "title": "Calculus 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "100EGP",
+     "type": "Calculus"
+   },
+   {
+     "img": "../assets/courses/6.jpg",
+     "time": "7 hours",
+     "title": "Algebra 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "200EGP",
+     "type": "Algebra"
+   },
+   {
+     "img": "../assets/courses/7.jpg",
+     "time": "11 hours",
+     "title": "Statistics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "300EGP",
+     "type": "Statistics"
+   },
+   {
+     "img": "../assets/courses/8.jpg",
+     "time": "4 hours",
+     "title": "Dynamics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "400EGP",
+     "type": "Dynamics"
+   },
+   {
+     "img": "../assets/courses/9.jpg",
+     "time": "1 hours",
+     "title": "Calculus 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "100EGP",
+     "type": "Calculus"
+   },
+   {
+     "img": "../assets/courses/10.jpg",
+     "time": "7 hours",
+     "title": "Algebra 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "200EGP",
+     "type": "Algebra"
+   },
+   {
+     "img": "../assets/courses/11.jpg",
+     "time": "11 hours",
+     "title": "Statistics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "300EGP",
+     "type": "Statistics"
+   },
+   {
+     "img": "../assets/courses/12.jpg",
+     "time": "4 hours",
+     "title": "Dynamics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "400EGP",
+     "type": "Dynamics"
+   },
+   {
+     "img": "../assets/courses/13.jpg",
+     "time": "1 hours",
+     "title": "Calculus 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "100EGP",
+     "type": "Calculus"
+   },
+   {
+     "img": "../assets/courses/14.jpg",
+     "time": "7 hours",
+     "title": "Algebra 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "200EGP",
+     "type": "Algebra"
+   },
+   {
+     "img": "../assets/courses/15.jpg",
+     "time": "11 hours",
+     "title": "Statistics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "300EGP",
+     "type": "Statistics"
+   },
+   {
+     "img": "../assets/courses/16.jpg",
+     "time": "4 hours",
+     "title": "Dynamics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "400EGP",
+     "type": "Dynamics"
+   },
+   {
+     "img": "../assets/courses/17.jpg",
+     "time": "1 hours",
+     "title": "Calculus 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "100EGP",
+     "type": "Calculus"
+   },
+   {
+     "img": "../assets/courses/18.jpg",
+     "time": "7 hours",
+     "title": "Algebra 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "200EGP",
+     "type": "Algebra"
+   },
+   {
+     "img": "../assets/courses/9.jpg",
+     "time": "11 hours",
+     "title": "Statistics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "300EGP",
+     "type": "Statistics"
+   },
+   {
+     "img": "../assets/courses/20.jpg",
+     "time": "4 hours",
+     "title": "Dynamics 1",
+     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+     "price": "400EGP",
+     "type": "Dynamics",
+     "last": true
+   }
+ ]
