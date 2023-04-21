@@ -1,487 +1,1986 @@
 {
-  "data":
- [
-   {
-     "img": "../assets/courses/1.jpg",
-     "time": "1 hours",
-     "title": "Calculus 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "100EGP",
-     "type": "Calculus"
-   },
-   {
-     "img": "../assets/courses/2.jpg",
-     "time": "7 hours",
-     "title": "Algebra 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "200EGP",
-     "type": "Algebra"
-   },
-   {
-     "img": "../assets/courses/3.jpg",
-     "time": "11 hours",
-     "title": "Statistics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "300EGP",
-     "type": "Statistics"
-   },
-   {
-     "img": "../assets/courses/4.jpg",
-     "time": "4 hours",
-     "title": "Dynamics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "400EGP",
-     "type": "Dynamics"
-   },
-   {
-     "img": "../assets/courses/5.jpg",
-     "time": "1 hours",
-     "title": "Calculus 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "100EGP",
-     "type": "Calculus"
-   },
-   {
-     "img": "../assets/courses/6.jpg",
-     "time": "7 hours",
-     "title": "Algebra 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "200EGP",
-     "type": "Algebra"
-   },
-   {
-     "img": "../assets/courses/7.jpg",
-     "time": "11 hours",
-     "title": "Statistics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "300EGP",
-     "type": "Statistics"
-   },
-   {
-     "img": "../assets/courses/8.jpg",
-     "time": "4 hours",
-     "title": "Dynamics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "400EGP",
-     "type": "Dynamics"
-   },
-   {
-     "img": "../assets/courses/9.jpg",
-     "time": "1 hours",
-     "title": "Calculus 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "100EGP",
-     "type": "Calculus"
-   },
-   {
-     "img": "../assets/courses/10.jpg",
-     "time": "7 hours",
-     "title": "Algebra 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "200EGP",
-     "type": "Algebra"
-   },
-   {
-     "img": "../assets/courses/11.jpg",
-     "time": "11 hours",
-     "title": "Statistics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "300EGP",
-     "type": "Statistics"
-   },
-   {
-     "img": "../assets/courses/12.jpg",
-     "time": "4 hours",
-     "title": "Dynamics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "400EGP",
-     "type": "Dynamics"
-   },
-   {
-     "img": "../assets/courses/13.jpg",
-     "time": "1 hours",
-     "title": "Calculus 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "100EGP",
-     "type": "Calculus"
-   },
-   {
-     "img": "../assets/courses/14.jpg",
-     "time": "7 hours",
-     "title": "Algebra 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "200EGP",
-     "type": "Algebra"
-   },
-   {
-     "img": "../assets/courses/15.jpg",
-     "time": "11 hours",
-     "title": "Statistics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "300EGP",
-     "type": "Statistics"
-   },
-   {
-     "img": "../assets/courses/16.jpg",
-     "time": "4 hours",
-     "title": "Dynamics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "400EGP",
-     "type": "Dynamics"
-   },
-   {
-     "img": "../assets/courses/17.jpg",
-     "time": "1 hours",
-     "title": "Calculus 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "100EGP",
-     "type": "Calculus"
-   },
-   {
-     "img": "../assets/courses/18.jpg",
-     "time": "7 hours",
-     "title": "Algebra 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "200EGP",
-     "type": "Algebra"
-   },
-   {
-     "img": "../assets/courses/9.jpg",
-     "time": "11 hours",
-     "title": "Statistics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "300EGP",
-     "type": "Statistics"
-   },
-   {
-     "img": "../assets/courses/20.jpg",
-     "time": "4 hours",
-     "title": "Dynamics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "400EGP",
-     "type": "Dynamics"
-   },
-   {
-     "img": "../assets/courses/1.jpg",
-     "time": "1 hours",
-     "title": "Calculus 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "100EGP",
-     "type": "Calculus"
-   },
-   {
-     "img": "../assets/courses/2.jpg",
-     "time": "7 hours",
-     "title": "Algebra 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "200EGP",
-     "type": "Algebra"
-   },
-   {
-     "img": "../assets/courses/3.jpg",
-     "time": "11 hours",
-     "title": "Statistics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "300EGP",
-     "type": "Statistics"
-   },
-   {
-     "img": "../assets/courses/4.jpg",
-     "time": "4 hours",
-     "title": "Dynamics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "400EGP",
-     "type": "Dynamics"
-   },
-   {
-     "img": "../assets/courses/5.jpg",
-     "time": "1 hours",
-     "title": "Calculus 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "100EGP",
-     "type": "Calculus"
-   },
-   {
-     "img": "../assets/courses/6.jpg",
-     "time": "7 hours",
-     "title": "Algebra 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "200EGP",
-     "type": "Algebra"
-   },
-   {
-     "img": "../assets/courses/7.jpg",
-     "time": "11 hours",
-     "title": "Statistics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "300EGP",
-     "type": "Statistics"
-   },
-   {
-     "img": "../assets/courses/8.jpg",
-     "time": "4 hours",
-     "title": "Dynamics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "400EGP",
-     "type": "Dynamics"
-   },
-   {
-     "img": "../assets/courses/9.jpg",
-     "time": "1 hours",
-     "title": "Calculus 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "100EGP",
-     "type": "Calculus"
-   },
-   {
-     "img": "../assets/courses/10.jpg",
-     "time": "7 hours",
-     "title": "Algebra 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "200EGP",
-     "type": "Algebra"
-   },
-   {
-     "img": "../assets/courses/11.jpg",
-     "time": "11 hours",
-     "title": "Statistics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "300EGP",
-     "type": "Statistics"
-   },
-   {
-     "img": "../assets/courses/12.jpg",
-     "time": "4 hours",
-     "title": "Dynamics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "400EGP",
-     "type": "Dynamics"
-   },
-   {
-     "img": "../assets/courses/13.jpg",
-     "time": "1 hours",
-     "title": "Calculus 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "100EGP",
-     "type": "Calculus"
-   },
-   {
-     "img": "../assets/courses/14.jpg",
-     "time": "7 hours",
-     "title": "Algebra 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "200EGP",
-     "type": "Algebra"
-   },
-   {
-     "img": "../assets/courses/15.jpg",
-     "time": "11 hours",
-     "title": "Statistics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "300EGP",
-     "type": "Statistics"
-   },
-   {
-     "img": "../assets/courses/16.jpg",
-     "time": "4 hours",
-     "title": "Dynamics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "400EGP",
-     "type": "Dynamics"
-   },
-   {
-     "img": "../assets/courses/17.jpg",
-     "time": "1 hours",
-     "title": "Calculus 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "100EGP",
-     "type": "Calculus"
-   },
-   {
-     "img": "../assets/courses/18.jpg",
-     "time": "7 hours",
-     "title": "Algebra 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "200EGP",
-     "type": "Algebra"
-   },
-   {
-     "img": "../assets/courses/9.jpg",
-     "time": "11 hours",
-     "title": "Statistics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "300EGP",
-     "type": "Statistics"
-   },
-   {
-     "img": "../assets/courses/20.jpg",
-     "time": "4 hours",
-     "title": "Dynamics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "400EGP",
-     "type": "Dynamics"
-   },
-   {
-     "img": "../assets/courses/1.jpg",
-     "time": "1 hours",
-     "title": "Calculus 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "100EGP",
-     "type": "Calculus"
-   },
-   {
-     "img": "../assets/courses/2.jpg",
-     "time": "7 hours",
-     "title": "Algebra 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "200EGP",
-     "type": "Algebra"
-   },
-   {
-     "img": "../assets/courses/3.jpg",
-     "time": "11 hours",
-     "title": "Statistics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "300EGP",
-     "type": "Statistics"
-   },
-   {
-     "img": "../assets/courses/4.jpg",
-     "time": "4 hours",
-     "title": "Dynamics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "400EGP",
-     "type": "Dynamics"
-   },
-   {
-     "img": "../assets/courses/5.jpg",
-     "time": "1 hours",
-     "title": "Calculus 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "100EGP",
-     "type": "Calculus"
-   },
-   {
-     "img": "../assets/courses/6.jpg",
-     "time": "7 hours",
-     "title": "Algebra 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "200EGP",
-     "type": "Algebra"
-   },
-   {
-     "img": "../assets/courses/7.jpg",
-     "time": "11 hours",
-     "title": "Statistics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "300EGP",
-     "type": "Statistics"
-   },
-   {
-     "img": "../assets/courses/8.jpg",
-     "time": "4 hours",
-     "title": "Dynamics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "400EGP",
-     "type": "Dynamics"
-   },
-   {
-     "img": "../assets/courses/9.jpg",
-     "time": "1 hours",
-     "title": "Calculus 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "100EGP",
-     "type": "Calculus"
-   },
-   {
-     "img": "../assets/courses/10.jpg",
-     "time": "7 hours",
-     "title": "Algebra 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "200EGP",
-     "type": "Algebra"
-   },
-   {
-     "img": "../assets/courses/11.jpg",
-     "time": "11 hours",
-     "title": "Statistics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "300EGP",
-     "type": "Statistics"
-   },
-   {
-     "img": "../assets/courses/12.jpg",
-     "time": "4 hours",
-     "title": "Dynamics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "400EGP",
-     "type": "Dynamics"
-   },
-   {
-     "img": "../assets/courses/13.jpg",
-     "time": "1 hours",
-     "title": "Calculus 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "100EGP",
-     "type": "Calculus"
-   },
-   {
-     "img": "../assets/courses/14.jpg",
-     "time": "7 hours",
-     "title": "Algebra 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "200EGP",
-     "type": "Algebra"
-   },
-   {
-     "img": "../assets/courses/15.jpg",
-     "time": "11 hours",
-     "title": "Statistics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "300EGP",
-     "type": "Statistics"
-   },
-   {
-     "img": "../assets/courses/16.jpg",
-     "time": "4 hours",
-     "title": "Dynamics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "400EGP",
-     "type": "Dynamics"
-   },
-   {
-     "img": "../assets/courses/17.jpg",
-     "time": "1 hours",
-     "title": "Calculus 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "100EGP",
-     "type": "Calculus"
-   },
-   {
-     "img": "../assets/courses/18.jpg",
-     "time": "7 hours",
-     "title": "Algebra 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "200EGP",
-     "type": "Algebra"
-   },
-   {
-     "img": "../assets/courses/9.jpg",
-     "time": "11 hours",
-     "title": "Statistics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "300EGP",
-     "type": "Statistics"
-   },
-   {
-     "img": "../assets/courses/20.jpg",
-     "time": "4 hours",
-     "title": "Dynamics 1",
-     "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
-     "price": "400EGP",
-     "type": "Dynamics",
-     "last": true
-   }
- ]
+  "data": [
+    {
+      "img": "../assets/courses/1.jpg",
+      "time": "1 hours",
+      "title": "Calculus 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "100EGP",
 
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 1,
+      "type": "Calculus"
+    },
+    {
+      "img": "../assets/courses/2.jpg",
+      "time": "7 hours",
+      "title": "Algebra 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "200EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 2,
+      "type": "Algebra"
+    },
+    {
+      "img": "../assets/courses/3.jpg",
+      "time": "11 hours",
+      "title": "Statistics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "300EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 3,
+      "type": "Statistics"
+    },
+    {
+      "img": "../assets/courses/4.jpg",
+      "time": "4 hours",
+      "title": "Dynamics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "400EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 4,
+      "type": "Dynamics"
+    },
+    {
+      "img": "../assets/courses/5.jpg",
+      "time": "1 hours",
+      "title": "Calculus 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "100EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 5,
+      "type": "Calculus"
+    },
+    {
+      "img": "../assets/courses/6.jpg",
+      "time": "7 hours",
+      "title": "Algebra 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "200EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 6,
+      "type": "Algebra"
+    },
+    {
+      "img": "../assets/courses/7.jpg",
+      "time": "11 hours",
+      "title": "Statistics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "300EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 7,
+      "type": "Statistics"
+    },
+    {
+      "img": "../assets/courses/8.jpg",
+      "time": "4 hours",
+      "title": "Dynamics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "400EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 8,
+      "type": "Dynamics"
+    },
+    {
+      "img": "../assets/courses/9.jpg",
+      "time": "1 hours",
+      "title": "Calculus 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "100EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 9,
+      "type": "Calculus"
+    },
+    {
+      "img": "../assets/courses/10.jpg",
+      "time": "7 hours",
+      "title": "Algebra 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "200EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 10,
+      "type": "Algebra"
+    },
+    {
+      "img": "../assets/courses/11.jpg",
+      "time": "11 hours",
+      "title": "Statistics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "300EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 11,
+      "type": "Statistics"
+    },
+    {
+      "img": "../assets/courses/12.jpg",
+      "time": "4 hours",
+      "title": "Dynamics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "400EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 12,
+      "type": "Dynamics"
+    },
+    {
+      "img": "../assets/courses/13.jpg",
+      "time": "1 hours",
+      "title": "Calculus 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "100EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 13,
+      "type": "Calculus"
+    },
+    {
+      "img": "../assets/courses/14.jpg",
+      "time": "7 hours",
+      "title": "Algebra 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "200EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 14,
+      "type": "Algebra"
+    },
+    {
+      "img": "../assets/courses/15.jpg",
+      "time": "11 hours",
+      "title": "Statistics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "300EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 15,
+      "type": "Statistics"
+    },
+    {
+      "img": "../assets/courses/16.jpg",
+      "time": "4 hours",
+      "title": "Dynamics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "400EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 16,
+      "type": "Dynamics"
+    },
+    {
+      "img": "../assets/courses/17.jpg",
+      "time": "1 hours",
+      "title": "Calculus 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "100EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 17,
+      "type": "Calculus"
+    },
+    {
+      "img": "../assets/courses/18.jpg",
+      "time": "7 hours",
+      "title": "Algebra 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "200EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 18,
+      "type": "Algebra"
+    },
+    {
+      "img": "../assets/courses/9.jpg",
+      "time": "11 hours",
+      "title": "Statistics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "300EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 19,
+      "type": "Statistics"
+    },
+    {
+      "img": "../assets/courses/20.jpg",
+      "time": "4 hours",
+      "title": "Dynamics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "400EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 20,
+      "type": "Dynamics"
+    },
+    {
+      "img": "../assets/courses/1.jpg",
+      "time": "1 hours",
+      "title": "Calculus 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "100EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 21,
+      "type": "Calculus"
+    },
+    {
+      "img": "../assets/courses/2.jpg",
+      "time": "7 hours",
+      "title": "Algebra 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "200EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 22,
+      "type": "Algebra"
+    },
+    {
+      "img": "../assets/courses/3.jpg",
+      "time": "11 hours",
+      "title": "Statistics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "300EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 23,
+      "type": "Statistics"
+    },
+    {
+      "img": "../assets/courses/4.jpg",
+      "time": "4 hours",
+      "title": "Dynamics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "400EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 24,
+      "type": "Dynamics"
+    },
+    {
+      "img": "../assets/courses/5.jpg",
+      "time": "1 hours",
+      "title": "Calculus 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "100EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 25,
+      "type": "Calculus"
+    },
+    {
+      "img": "../assets/courses/6.jpg",
+      "time": "7 hours",
+      "title": "Algebra 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "200EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 26,
+      "type": "Algebra"
+    },
+    {
+      "img": "../assets/courses/7.jpg",
+      "time": "11 hours",
+      "title": "Statistics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "300EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 27,
+      "type": "Statistics"
+    },
+    {
+      "img": "../assets/courses/8.jpg",
+      "time": "4 hours",
+      "title": "Dynamics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "400EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 28,
+      "type": "Dynamics"
+    },
+    {
+      "img": "../assets/courses/9.jpg",
+      "time": "1 hours",
+      "title": "Calculus 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "100EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 29,
+      "type": "Calculus"
+    },
+    {
+      "img": "../assets/courses/10.jpg",
+      "time": "7 hours",
+      "title": "Algebra 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "200EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 30,
+      "type": "Algebra"
+    },
+    {
+      "img": "../assets/courses/11.jpg",
+      "time": "11 hours",
+      "title": "Statistics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "300EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 31,
+      "type": "Statistics"
+    },
+    {
+      "img": "../assets/courses/12.jpg",
+      "time": "4 hours",
+      "title": "Dynamics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "400EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 32,
+      "type": "Dynamics"
+    },
+    {
+      "img": "../assets/courses/13.jpg",
+      "time": "1 hours",
+      "title": "Calculus 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "100EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 33,
+      "type": "Calculus"
+    },
+    {
+      "img": "../assets/courses/14.jpg",
+      "time": "7 hours",
+      "title": "Algebra 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "200EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 34,
+      "type": "Algebra"
+    },
+    {
+      "img": "../assets/courses/15.jpg",
+      "time": "11 hours",
+      "title": "Statistics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "300EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 35,
+      "type": "Statistics"
+    },
+    {
+      "img": "../assets/courses/16.jpg",
+      "time": "4 hours",
+      "title": "Dynamics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "400EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 36,
+      "type": "Dynamics"
+    },
+    {
+      "img": "../assets/courses/17.jpg",
+      "time": "1 hours",
+      "title": "Calculus 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "100EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 37,
+      "type": "Calculus"
+    },
+    {
+      "img": "../assets/courses/18.jpg",
+      "time": "7 hours",
+      "title": "Algebra 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "200EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 38,
+      "type": "Algebra"
+    },
+    {
+      "img": "../assets/courses/9.jpg",
+      "time": "11 hours",
+      "title": "Statistics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "300EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 39,
+      "type": "Statistics"
+    },
+    {
+      "img": "../assets/courses/20.jpg",
+      "time": "4 hours",
+      "title": "Dynamics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "400EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 40,
+      "type": "Dynamics"
+    },
+    {
+      "img": "../assets/courses/1.jpg",
+      "time": "1 hours",
+      "title": "Calculus 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "100EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 41,
+      "type": "Calculus"
+    },
+    {
+      "img": "../assets/courses/2.jpg",
+      "time": "7 hours",
+      "title": "Algebra 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "200EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 42,
+      "type": "Algebra"
+    },
+    {
+      "img": "../assets/courses/3.jpg",
+      "time": "11 hours",
+      "title": "Statistics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "300EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 43,
+      "type": "Statistics"
+    },
+    {
+      "img": "../assets/courses/4.jpg",
+      "time": "4 hours",
+      "title": "Dynamics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "400EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 44,
+      "type": "Dynamics"
+    },
+    {
+      "img": "../assets/courses/5.jpg",
+      "time": "1 hours",
+      "title": "Calculus 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "100EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 45,
+      "type": "Calculus"
+    },
+    {
+      "img": "../assets/courses/6.jpg",
+      "time": "7 hours",
+      "title": "Algebra 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "200EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 46,
+      "type": "Algebra"
+    },
+    {
+      "img": "../assets/courses/7.jpg",
+      "time": "11 hours",
+      "title": "Statistics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "300EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 47,
+      "type": "Statistics"
+    },
+    {
+      "img": "../assets/courses/8.jpg",
+      "time": "4 hours",
+      "title": "Dynamics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "400EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 48,
+      "type": "Dynamics"
+    },
+    {
+      "img": "../assets/courses/9.jpg",
+      "time": "1 hours",
+      "title": "Calculus 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "100EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 49,
+      "type": "Calculus"
+    },
+    {
+      "img": "../assets/courses/10.jpg",
+      "time": "7 hours",
+      "title": "Algebra 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "200EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 50,
+      "type": "Algebra"
+    },
+    {
+      "img": "../assets/courses/11.jpg",
+      "time": "11 hours",
+      "title": "Statistics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "300EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 51,
+      "type": "Statistics"
+    },
+    {
+      "img": "../assets/courses/12.jpg",
+      "time": "4 hours",
+      "title": "Dynamics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "400EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 52,
+      "type": "Dynamics"
+    },
+    {
+      "img": "../assets/courses/13.jpg",
+      "time": "1 hours",
+      "title": "Calculus 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "100EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 53,
+      "type": "Calculus"
+    },
+    {
+      "img": "../assets/courses/14.jpg",
+      "time": "7 hours",
+      "title": "Algebra 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "200EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 54,
+      "type": "Algebra"
+    },
+    {
+      "img": "../assets/courses/15.jpg",
+      "time": "11 hours",
+      "title": "Statistics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "300EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 55,
+      "type": "Statistics"
+    },
+    {
+      "img": "../assets/courses/16.jpg",
+      "time": "4 hours",
+      "title": "Dynamics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "400EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 56,
+      "type": "Dynamics"
+    },
+    {
+      "img": "../assets/courses/17.jpg",
+      "time": "1 hours",
+      "title": "Calculus 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "100EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 57,
+      "type": "Calculus"
+    },
+    {
+      "img": "../assets/courses/18.jpg",
+      "time": "7 hours",
+      "title": "Algebra 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "200EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 58,
+      "type": "Algebra"
+    },
+    {
+      "img": "../assets/courses/9.jpg",
+      "time": "11 hours",
+      "title": "Statistics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "300EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 59,
+      "type": "Statistics"
+    },
+    {
+      "img": "../assets/courses/20.jpg",
+      "time": "4 hours",
+      "title": "Dynamics 1",
+      "description": " A branch of mathematics, deals with the rate of change, developed by Newton and Leibniz.",
+      "price": "400EGP",
+      "features": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        }
+      ],
+      "sessions": [
+        { "text": "Build powerful, fast, user-friendly and reactive web apps" },
+        {
+          "text": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        },
+        {
+          "text": "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+        }
+      ],
+      "id": 60,
+      "type": "Dynamics",
+      "last": true
+    }
+  ]
 }
